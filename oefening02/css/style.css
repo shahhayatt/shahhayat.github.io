@@ -1,0 +1,11 @@
+body
+{
+    background-color: rgb(238, 112, 10);
+}
+image
+{
+    max-width: 200px;
+    max-height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+}
